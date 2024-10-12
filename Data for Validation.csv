@@ -1,0 +1,6 @@
+Gender,Take off loss,3rd last Step Length ,last step length,3rd Last step horizontal Velocity BTO (m/s),2nd Last step horizontal velocity BTO (m/s),Last step horizontal Velocity BTO (m/s),Horizontal velocity at take off (m/s),Vertical velocity at take off (m/s),CM lowering (cm),3rd last step Contact time (s),3rd last step flight time (s),2nd Last step contact time (s),2nd Last step flight time (s),Take of angle,Trunk angle at T0,Body inclination angle at TD,mean knee angular velocity TD,Thigh angular velocity of swing leg at TO,Official Distance (M)
+F,0.138,2.02,1.98,9.45,9.66,9.17,8.48,3.38,3,0.1,0.09,0.095,0.12,21.7,91.4,-35.1,-600,694,6.81
+F,0.117,2.36,2.28,9.3,9.18,8.72,7.34,3.68,5,0.125,0.12,0.11,0.15,26.6,89.1,-39,-506,575,6.64
+M,0.09,2.11,2.16,10.47,10.38,9.86,9.19,3.81,5,0.085,0.105,0.1,0.13,22.5,100.4,-37.1,-351,565,8.23
+M,0.07,2.4,2.16,10.41,9.99,9.53,8.49,3.8,3,0.09,0.135,0.125,0.12,24.1,93.9,-36,-764,679,7.93
+M,0.01,,2.13,,,9.86,9.11,3.45,3,0.088,0.132,0.124,0.144,20.8,85.3,-35.3,-383,470,8.42
