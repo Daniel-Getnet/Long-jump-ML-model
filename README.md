@@ -1,7 +1,7 @@
-# Long jump performance prediction using machine learning models<br>
-This repository contains the code and data used in my manuscript titled “Predicting Long Jump Performance Using Biomechanical Features: A Machine Learning Approach.” The study explores how biomechanical features pridict long jump performance and utilizes machine learning approch to predict performance.<br>
+# Predicting Long Jump Performance Using Biomechanical Features: A Machine Learning Approach<br>
+This repository contains the code and data used in my manuscript titled “Predicting Long Jump Performance Using Biomechanical Features: A Machine Learning Approach.” The study explores how biomechanical features predict long jump performance and utilizes machine learning approch to predict performance.<br>
 
-###  four Model were used for this study:<br>
+###  Four Model were used for this study:<br>
 1. Random Forest<br>
 2. CatBoost<br>
 3. Gradient Boosting<br>
@@ -38,11 +38,11 @@ Among the models, **XGBoost** demonstrated the best predictive accuracy, achievi
 
 ## Hyperparameter Tuning<br>
 
-To improve model performance, hyperparameter tuning was performed. The final model was evaluated on unseen data, demonstrating strong predictive accuracy and further confirming its robustness.<br>
+To improve model performance, hyperparameter tuning was performed. And also, the final model was evaluated on unseen data, demonstrating strong predictive accuracy and further confirming its robustness.<br>
 
 ## Conclusion<br>
 
-The finding of this study offer valuable insights into to what extent biomechanical features pridict long jump performance. moreover, The study provides practical applications for athletes and coaches seeking data-driven approaches to optimize long jump performance performance.
+The findings of this study provide important insights into how much biomechanical features can predict long jump performance. Moreover, the study provides practical applications for athletes and coaches seeking data-driven approaches to optimize long jump performance performance.
 
 
 
