@@ -13,7 +13,7 @@ A total of nineteen (19) biomechanical features from elite long jumpers were ana
 - Gender<br>
 - Horizontal Velocity during the Third-to-Last Stride Before Take-off (3rd LS HV BTO)<br>
 - Horizontal Velocity during the Final Stride Before Take-off (LS HV BTO)<br>
-- second last step horizontal velocity before take off (2nd LS HV BTO)<br>
+- Second Last Step Horizontal Velocity Before Take Off (2nd LS HV BTO)<br>
 - Vertical Velocity at Take-off (VV at take-off)<br>
 
 Conversely, the least influential features were:<br>
