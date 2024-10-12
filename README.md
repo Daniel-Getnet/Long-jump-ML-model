@@ -1,22 +1,27 @@
-# Long jump performance prediction machine learning models<br>
-This is machine learning model for predicting long jump performance through biomechanical features.<br>
+# Long jump performance prediction using machine learning models<br>
+This repository contains the code and data used in my manuscript titled “Predicting Long Jump Performance Using Biomechanical Features: A Machine Learning Approach.” The study explores how biomechanical features pridict long jump performance and utilizes machine learning approch to predict performance.<br>
+
 ###  four Model were used for this study:<br>
--Random Forest<br>
--CatBoost<br>
--Gradient Boosting<br>
--XGBoost<br>
+1. Random Forest<br>
+2. CatBoost<br>
+3. Gradient Boosting<br>
+4. XGBoost<br>
+
 ### Feature Analysis<br>
-A total of nineteen (19) biomechanical features were analyzed for importance using the Random Forest model.<br> The feature selection process identified the following as the four most influential factors in predicting long jump performance:<br>
+A total of nineteen (19) biomechanical features from elite long jumpers were analyzed for importance using the Random Forest model.<br> The feature selection process identified the following as the five most influential factors in predicting long jump performance:<br>
 
 - Gender<br>
 - Horizontal Velocity during the Third-to-Last Stride Before Take-off (3rd LS HV BTO)<br>
 - Horizontal Velocity during the Final Stride Before Take-off (LS HV BTO)<br>
+- second last step horizontal velocity before take off (2nd LS HV BTO)<br>
 - Vertical Velocity at Take-off (VV at take-off)<br>
+
 Conversely, the least influential features were:<br>
 
 - Take-off Angle<br>
 - Flight Time During the Second-to-Last Stride (2nd LS Flight Time)<br>
 - Center of Mass Lowering (CM Lowering)<br>
+
 ### Model Performance Evaluation<br>
 
 Model performance was evaluated using the following metrics:<br>
@@ -37,7 +42,7 @@ To improve model performance, hyperparameter tuning was performed. The final mod
 
 ## Conclusion<br>
 
-The findings offer valuable insights into the relationship between biomechanical factors and long jump performance. The study provides practical applications for athletes and coaches seeking data-driven approaches to optimize performance.
+The finding of this study offer valuable insights into to what extent biomechanical features pridict long jump performance. moreover, The study provides practical applications for athletes and coaches seeking data-driven approaches to optimize long jump performance performance.
 
 
 
